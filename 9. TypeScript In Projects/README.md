@@ -4,17 +4,7 @@
 cd 9.\ TypeScript\ In\ Projects/
 ```
 
-## Install npm dependencies
-
-```shell
-npm ci
-```
-
 ## Local Development
-
-```shell
-npm start
-```
 
 ```shell
 tsc -w
